@@ -1,2 +1,5 @@
 *.xlsx
 *.ipynb
+/build
+/dist
+*.spec
