@@ -30,7 +30,7 @@
 ### Campos especiais
   O campo `Iniciar na linha` caso informado, será adicionado os produtos a partir da linha desejada, caso queira utilizar a mesma planilha para diversos tipos de anúncio. No caso, precisa abrir a planilha criada e verificar em qual linha deve ser iniciada a contagem novamente. 
   
-  CASO VÁ UTILIZAR A MESMA PLANILHA PARA DIVERSOS ANÚNCIOS DIFERENTES, LEMBRE SE DE CARREGAR A PLANILHA NOVA CRIADA NA PRIMEIRA EXECUÇÃO ONDE JÁ CONTÉM ANÚNCIOS CRIADOS.
+  **CASO VÁ UTILIZAR A MESMA PLANILHA PARA DIVERSOS ANÚNCIOS DIFERENTES, LEMBRE SE DE CARREGAR A PLANILHA NOVA CRIADA NA PRIMEIRA EXECUÇÃO ONDE JÁ CONTÉM ANÚNCIOS CRIADOS.**
   
   
   `Preço max`, caso informado, será utilizado o campo `Preço` como **preço mínimo** e o campo `Preço max` como **preço máximo** para criar variações de preços entre os dois valores informados, sendo eles inclusos e colocados na planilha.
